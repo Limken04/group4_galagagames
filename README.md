@@ -62,12 +62,12 @@ Finalized app metadata (name, version).
 Prepared release builds and tested deployment on devices.
 
 👨‍💻 Group Members – Group 4
-    Lim, Alvinson G.
-    Mohanida Palao
-    Jonalyn Astilla Frolles
-    Ma.Hersly E. Prajele
-    Ace Fernan C Yu
-    Joan Niña C Jumao-as
+   // Lim, Alvinson G.
+    //Mohanida Palao
+   // Jonalyn Astilla Frolles
+   // Ma.Hersly E. Prajele
+   // Ace Fernan C Yu
+   // Joan Niña C Jumao-as
 
 📂 Repository
 This GitHub repository serves as the official source code and version control for our Flutter mobile game project. All phases and tasks are properly committed with detailed messages for traceability.
