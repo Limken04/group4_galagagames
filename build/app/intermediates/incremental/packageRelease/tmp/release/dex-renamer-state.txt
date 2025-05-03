@@ -1,0 +1,4 @@
+#Sat May 03 13:29:49 CST 2025
+base.0=C\:\\Projects\\flutter\\group4_galagagames\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
